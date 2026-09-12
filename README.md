@@ -26,5 +26,3 @@ Indicators:3mm/5mm Signal LEDs
 * /PCB-mesl.kicad_pcb: Board layout footprint placements and copper trace routing paths.
 * /gerber/: Pre-generated industrial production files ready to be sent to manufacturing plants (JLCPCB, PCBWay, etc.).
 
-
-  ## NOT FULLY WIRED
